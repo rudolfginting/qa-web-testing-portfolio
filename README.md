@@ -41,4 +41,4 @@ Performed end-to-end testing on a web-based application focusing on authenticati
 ---
 
 ## Author
-Rudolf Filius Alsaro Gintin
+Rudolf Filius Alsaro Ginting

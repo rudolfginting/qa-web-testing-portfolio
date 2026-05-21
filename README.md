@@ -1,6 +1,5 @@
 # QA Web Testing Portfolio
 
-Professional QA portfolio showcasing manual testing, regression testing, bug reporting, and end-to-end testing practices for web applications.
 This repository showcases my practical experience in Software Quality Assurance (QA) through a web application testing project.
 
 ![QA](https://img.shields.io/badge/QA-Testing-blue)

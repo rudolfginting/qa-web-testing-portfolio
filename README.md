@@ -1,10 +1,10 @@
-# QA Web Testing Portfolio
-
-This repository showcases my practical experience in Software Quality Assurance (QA) through a web application testing project.
-
 ![QA](https://img.shields.io/badge/QA-Testing-blue)
 ![Postman](https://img.shields.io/badge/API-Postman-orange)
 ![Manual Testing](https://img.shields.io/badge/Testing-Manual-green)
+
+# QA Web Testing Portfolio
+
+This repository showcases my practical experience in Software Quality Assurance (QA) through a web application testing project.
 
 ## Project Overview
 Performed end-to-end testing on a web-based application focusing on authentication and CRUD functionalities to ensure system reliability and usability.
